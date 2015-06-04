@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Recommendation Template
 
 ## Documentation
@@ -40,3 +41,6 @@ Please refer to http://docs.prediction.io/templates/recommendation/quickstart/
 - initial version
 - known issue:
   * If importing new events of new users/itesm during training, the new user/item id can't be found in the BiMap.
+=======
+# Recommender-Template
+>>>>>>> 1f6002abe822e94d61da12c6b69e8123ac40f82b
